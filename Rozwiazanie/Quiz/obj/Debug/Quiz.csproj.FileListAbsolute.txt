@@ -1,0 +1,77 @@
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\MainWindow.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\App.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz_MarkupCompile.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz_MarkupCompile.lref
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe.config
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\bin\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\bin\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\MainWindow.baml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.g.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\bin\Debug\Newtonsoft.Json.xml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz\Quiz\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\bin\Debug\Quiz.exe
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\bin\Debug\Quiz.pdb
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\MainWindow.g.cs
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\App.g.cs
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.cache
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.lref
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\MainWindow.baml
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.g.resources
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.exe
+C:\Users\mcVer\Desktop\Sem IV\Programowanie Obiektowe i Graficzne\Projekty\Quiz\Rozwiazanie\Quiz\obj\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\bin\Debug\Quiz.exe.config
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\bin\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\bin\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.xml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\MainWindow.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\App.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.lref
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\MainWindow.baml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.g.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Rozwiazanie\Rozwiazanie\Quiz\obj\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\bin\Debug\Quiz.exe.config
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\bin\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\bin\Debug\Quiz.pdb
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\bin\Debug\Newtonsoft.Json.xml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\MainWindow.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\App.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz_MarkupCompile.lref
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\MainWindow.baml
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.g.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.Properties.Resources.resources
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.GenerateResource.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.csproj.CopyComplete
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.exe
+D:\Studia\Rok2\Sem4\Programowanie obiektowe\Quiz-Rozwiązywanie Adam Paździerz\Rozwiazanie\Quiz\obj\Debug\Quiz.pdb
